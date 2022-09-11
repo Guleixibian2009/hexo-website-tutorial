@@ -16,18 +16,6 @@
 ]]></content>
   </entry>
   <entry>
-    <title>3.2.3节的演示部分</title>
-    <url>/hexo-website-tutorial/2022/08/20/test-page-for-3-2-3/</url>
-    <content><![CDATA[<p>测试文本：这是一段文本，里面既有中文又有英文。This is a piece of text.面对这种双语部分，里面既有中文又有English，该怎么办呢？</p>
-]]></content>
-      <categories>
-        <category>Test</category>
-      </categories>
-      <tags>
-        <tag>Test</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>4.1.1节新建文章示例</title>
     <url>/hexo-website-tutorial/2022/08/30/a-new-post/</url>
     <content><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
@@ -40,6 +28,18 @@
       <tags>
         <tag>Test1</tag>
         <tag>Test2</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>3.2.3节的演示部分</title>
+    <url>/hexo-website-tutorial/2022/08/20/test-page-for-3-2-3/</url>
+    <content><![CDATA[<p>测试文本：这是一段文本，里面既有中文又有英文。This is a piece of text.面对这种双语部分，里面既有中文又有English，该怎么办呢？</p>
+]]></content>
+      <categories>
+        <category>Test</category>
+      </categories>
+      <tags>
+        <tag>Test</tag>
       </tags>
   </entry>
   <entry>
