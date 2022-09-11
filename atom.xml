@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Hexo网站教程</title>
+  
+  <subtitle>这个站点与文章的写作进度同步更新哦~</subtitle>
+  <link href="https://guleixibian2009.github.io/hexo-website-tutorial/atom.xml" rel="self"/>
+  
+  <link href="https://guleixibian2009.github.io/hexo-website-tutorial/"/>
+  <updated>2022-09-04T13:11:52.246Z</updated>
+  <id>https://guleixibian2009.github.io/hexo-website-tutorial/</id>
+  
+  <author>
+    <name>Hexo-Website-Tutorial</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>5.4.1节相关文章插件测试</title>
+    <link href="https://guleixibian2009.github.io/hexo-website-tutorial/2022/09/04/related-post-test-page/"/>
+    <id>https://guleixibian2009.github.io/hexo-website-tutorial/2022/09/04/related-post-test-page/</id>
+    <published>2022-09-04T12:49:23.000Z</published>
+    <updated>2022-09-04T13:11:52.246Z</updated>
+    
+    <content type="html"><![CDATA[<p>这是一个测试文章，旨在测试<code>hexo-related-popular-post</code>插件。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;这是一个测试文章，旨在测试&lt;code&gt;hexo-related-popular-post&lt;/code&gt;插件。&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    <category term="Test1" scheme="https://guleixibian2009.github.io/hexo-website-tutorial/categories/Test1/"/>
+    
+    
+    <category term="Test1" scheme="https://guleixibian2009.github.io/hexo-website-tutorial/tags/Test1/"/>
+    
+    <category term="Test2" scheme="https://guleixibian2009.github.io/hexo-website-tutorial/tags/Test2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>4.1.1节新建文章示例</title>
+    <link href="https://guleixibian2009.github.io/hexo-website-tutorial/2022/08/30/a-new-post/"/>
+    <id>https://guleixibian2009.github.io/hexo-website-tutorial/2022/08/30/a-new-post/</id>
+    <published>2022-08-30T09:02:10.000Z</published>
+    <updated>2022-08-30T09:50:47.145Z</updated>
+    
+    <content type="html"><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad m</summary>
+      
+    
+    
+    
+    <category term="Test1" scheme="https://guleixibian2009.github.io/hexo-website-tutorial/categories/Test1/"/>
+    
+    <category term="Test2" scheme="https://guleixibian2009.github.io/hexo-website-tutorial/categories/Test1/Test2/"/>
+    
+    <category term="Test3" scheme="https://guleixibian2009.github.io/hexo-website-tutorial/categories/Test3/"/>
+    
+    
+    <category term="Test1" scheme="https://guleixibian2009.github.io/hexo-website-tutorial/tags/Test1/"/>
+    
+    <category term="Test2" scheme="https://guleixibian2009.github.io/hexo-website-tutorial/tags/Test2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>3.2.3节的演示部分</title>
+    <link href="https://guleixibian2009.github.io/hexo-website-tutorial/2022/08/20/test-page-for-3-2-3/"/>
+    <id>https://guleixibian2009.github.io/hexo-website-tutorial/2022/08/20/test-page-for-3-2-3/</id>
+    <published>2022-08-20T10:12:26.000Z</published>
+    <updated>2022-08-20T10:16:42.346Z</updated>
+    
+    <content type="html"><![CDATA[<p>测试文本：这是一段文本，里面既有中文又有英文。This is a piece of text.面对这种双语部分，里面既有中文又有English，该怎么办呢？</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;测试文本：这是一段文本，里面既有中文又有英文。This is a piece of text.面对这种双语部分，里面既有中文又有English，该怎么办呢？&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    <category term="Test" scheme="https://guleixibian2009.github.io/hexo-website-tutorial/categories/Test/"/>
+    
+    
+    <category term="Test" scheme="https://guleixibian2009.github.io/hexo-website-tutorial/tags/Test/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://guleixibian2009.github.io/hexo-website-tutorial/2022/08/17/hello-world/"/>
+    <id>https://guleixibian2009.github.io/hexo-website-tutorial/2022/08/17/hello-world/</id>
+    <published>2022-08-17T14:02:36.439Z</published>
+    <updated>2022-08-30T09:57:15.562Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><span id="more"></span><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;</summary>
+    
+    
+    
+    
+  </entry>
+  
+</feed>
